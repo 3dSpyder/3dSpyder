@@ -6,7 +6,7 @@
 
 <h2>Certifications</h2>
  
-- [Google I.T. Support Professional](https://www.example.com) - Estimated Completion: August 2022
+- [Google I.T. Support Professional](https://www.credly.com/badges/2d4ca08f-b44b-4359-94a6-4fa8e7cb52ec/public_url)
 - [CompTIA Security+](https://www.example.com) - Estimated Completion: September 2022
  
 <h2>CTF Competitions</h2>
