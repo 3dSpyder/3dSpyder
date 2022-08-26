@@ -4,6 +4,10 @@
 
 - [Active Directory Home Lab](https://github.com/3dSpyder/ActiveDirectoryHomeLab)
 
+<h2>Programming Projects:</h2>
+
+- [Powershell File Organization Script](https://github.com/3dSpyder/_FileOrganizer)
+
 <h2>Certifications</h2>
  
 - [Google I.T. Support Professional](https://www.credly.com/badges/2d4ca08f-b44b-4359-94a6-4fa8e7cb52ec/public_url)
@@ -13,7 +17,8 @@
 
 - [National Cyber League Spring 2022 Individual Competition](https://cyberskyline.com/report/RJXC243B2WYT)
 - [National Cyber League Spring 2022 Team Competition](https://cyberskyline.com/report/0BGGQPJM7BNP)
-
+- [US Cyber Open - Beginner's Game Room Participant - Season II](https://api.badgr.io/public/assertions/9NKEZYtkTnmDtdqsaDEwwg?identity__email=comptonj427%40gmail.com)
+- [US Cyber Open - Competitive CTF Participant - Season II](https://api.badgr.io/public/assertions/XRe02XmGQ1Oa2WqbIWLfqg?identity__email=comptonj427%40gmail.com)
 <h2>Connect with me:</h2>
 
 - [LinkedIn](www.linkedin.com/in/joshuajcompton)
